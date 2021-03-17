@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072813917582",
+    "project_id": "centicbids-6e3d8",
+    "storage_bucket": "centicbids-6e3d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072813917582:android:d0b764bea36d3cc43d50df",
+        "android_client_info": {
+          "package_name": "com.centicbids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072813917582-rondq14g3s9hd40hb6rqrj3v314s5m0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centicbids",
+            "certificate_hash": "036b344fa1608d40e94a80fd8b52fd63f3785281"
+          }
+        },
+        {
+          "client_id": "1072813917582-4h4bvmjnp98gb3jg8rudubcffn3jn5ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlIicCWH9wYBRp-V03FkexsJajeMG0J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072813917582-4h4bvmjnp98gb3jg8rudubcffn3jn5ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
